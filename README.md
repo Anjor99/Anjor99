@@ -1,8 +1,8 @@
 # Hi, I'm Anjor 👋
 
-Software Developer with experience building backend systems, deploying ML models, and creating full-stack applications.
+**Software Developer** building backend systems, deploying ML models, and shipping full-stack applications.
 
-📍 Thane, Maharashtra, India
+📍 Thane, Maharashtra, India | 💬 Open to opportunities
 
 ---
 
@@ -37,11 +37,24 @@ A production bot that scrapes web novels, generates formatted PDFs, and handles 
 
 ## 🛠 Tech Stack
 
-**Languages**: Python, Java, JavaScript  
-**Backend**: Spring Boot, FastAPI, Flask  
-**Frontend**: React  
-**Databases**: MongoDB, MySQL  
-**Tools**: Git, Linux, REST APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 GitHub Stats
+
+![Anjor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjor99&show_icons=true&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjor99&layout=compact&theme=radical&hide_border=true)
 
 ---
 
