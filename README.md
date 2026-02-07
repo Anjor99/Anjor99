@@ -50,12 +50,4 @@ A production bot that scrapes web novels, generates formatted PDFs, and handles 
 
 ---
 
-## 📊 GitHub Stats
-
-![Anjor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjor99&show_icons=true&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjor99&layout=compact&theme=radical&hide_border=true)
-
----
-
 ⭐ I build systems that run reliably and solve real problems.
