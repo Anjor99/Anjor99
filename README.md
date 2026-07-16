@@ -25,16 +25,6 @@
 
 ---
 
-## 🔥 Featured Project
-
-**Web Novel PDF Telegram Bot**
-
-A production bot that scrapes web novels, generates formatted PDFs, and handles long-running jobs with crash recovery. Currently running on a Termux-powered Android device as a self-hosting experiment.
-
-[![Try the Bot](https://img.shields.io/badge/Try%20the%20Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Anjor_pdf_buddy_bot)
-
----
-
 ## 🛠 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
