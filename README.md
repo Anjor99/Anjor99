@@ -1,108 +1,66 @@
-# Hi, I'm Anjor Rane 👋
+# Anjor Rane
 
-**AI Engineer | Agentic AI, RAG & LLM Applications | Software Engineer**
+**Full Stack Engineer (AI) | Python, FastAPI, React & LLM/RAG Applications**
 
-I build intelligent applications, AI agents, and production-ready backend systems. My work spans **Agentic AI, RAG pipelines, LLM tool calling, computer vision, and full-stack development** — from designing the system to deploying it on the cloud.
+[Portfolio](https://portfolio.anjorrane.in/) · [LinkedIn](https://in.linkedin.com/in/anjor-rane-4a6111245) · [GitHub](https://github.com/Anjor99)
 
-📍 Badlapur, Maharashtra, India · 💼 Open to AI Engineering & Software Development Opportunities
+Full Stack Engineer (AI) with 1+ year of professional experience building Python backend services, React applications, LLM agents, and machine learning solutions. Experienced in cloud deployment, secure microservice integrations, and Docker/Jenkins CI/CD.
 
-[Portfolio](https://portfolio.anjorrane.in/) · [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/Anjor99)
+## Technical Skills
 
----
+- **Languages & Backend:** Python, Java, JavaScript, FastAPI, Flask, Spring Boot, REST APIs
+- **AI/ML:** LangGraph, RAG, MCP, LLM tool calling, Rasa, TensorFlow, Scikit-learn, Detectron2
+- **Frontend & Data:** React, MySQL, MongoDB, ETL workflows
+- **Cloud & DevOps:** Google Cloud, AWS EC2, Docker, Jenkins, CI/CD, Linux, Git, Cloudflare Tunnel
 
-## 🚀 What I'm Building
+## Projects
 
-- **Agentic AI & LLM Applications** — Building LangGraph agents with RAG, tool calling, memory, guardrails, and evaluation.
-- **AI Deployment & Infrastructure** — Deploying FastAPI applications on Google Cloud and AWS, using Docker, CI/CD, and secure integrations.
-- **Machine Learning & Computer Vision** — Developing ML inference APIs, phishing detection systems, and signature-verification pipelines.
-- **Full-Stack Applications** — Building responsive React interfaces and Python-powered backends, APIs, and data workflows.
+### [Naukri AI Recruitment / Support Agent](https://github.com/Anjor99/naukri-ai-recruitment-agent)
+[Live Demo](https://naukri-agent.anjorrane.in/)
 
-## 🧠 Featured Projects
+LangGraph agent with RAG, MCP, tool calling, memory, guardrails, and policy-document retrieval. Deployed using FastAPI on Google Cloud with HTTPS through Cloudflare Tunnel.
 
-### Naukri AI Recruitment / Support Agent
-A deployed AI agent built with LangGraph, RAG, and MCP, featuring status-retrieval tools, policy-document search, memory, guardrails, and fallback handling.
+**Stack:** Python, LangGraph, RAG, MCP, FastAPI, Google Cloud, AWS
 
-**Stack:** Python · LangGraph · RAG · MCP · FastAPI · Google Cloud · AWS · Cloudflare Tunnel
+### [PhishGuard — Phishing URL Detection](https://github.com/Anjor99/Phish_Guard)
+[Live Demo](https://phishguard-5bpv.onrender.com/) · [IEEE Publication](https://ieeexplore.ieee.org/document/11208974)
 
-### PhishGuard — Phishing URL Detection
-A full-stack phishing URL detection application that compares machine learning models and exposes predictions through an API and React interface.
+Machine-learning-based phishing URL detection application using structural and statistical URL features, with a web interface and prediction API.
 
-**Stack:** Python · FastAPI · React · Random Forest · XGBoost · Scikit-learn
+**Stack:** Python, FastAPI, React, Random Forest, Machine Learning
 
-📄 Research publication: *Phishing URL Detection using Machine Learning Algorithms* — IEEE Xplore, October 2025.
+## Professional Experience
 
-### SignSure — Signature Verification
-An independent computer-vision pipeline combining document-image detection, preprocessing, and Siamese-network-based signature comparison.
-
-**Stack:** Python · FastAPI · Detectron2 · Siamese Networks
-
-### DevMate AI
-An AI engineering teammate project focused on building agentic capabilities step by step, including tool use, memory, RAG, planning, code generation, and evaluation.
-
-**Stack:** Python · LLM APIs · FastAPI · Agentic AI
-
----
-
-## 💼 Professional Experience
-
-**Software Development Engineer — PayVance Innovation Pvt. Ltd.**  
+**Software Development Engineer | PayVance Innovation Pvt. Ltd.**  
 *December 2024 – December 2025*
 
-- Built a Rasa chatbot integrating internal services with token-based authentication and access-aware responses.
-- Developed a computer-vision signature-verification pipeline using Detectron2 and Siamese networks.
-- Co-managed Docker/Jenkins delivery pipelines across multiple company projects.
-- Built React interfaces for data-mapping and ETL workflows supporting large banking-data transfers.
-- Collaborated with founders, clients, and engineering teams on demonstrations, feedback, code reviews, and Agile delivery.
+- Developed a Rasa chatbot with secure, token-based integrations across internal services.
+- Built SignSure, a signature-verification pipeline using Detectron2, image preprocessing, and Siamese networks.
+- Co-managed Docker/Jenkins delivery pipelines across 13 ongoing company projects.
+- Developed React interfaces for banking ETL workflows handling approximately 800K–1M rows per transfer.
+- Collaborated with clients and engineering teams on demonstrations, code reviews, and Agile delivery.
 
-**Independent Engineer & Freelance Web Developer**  
+**Independent Engineer | Freelance Development**  
 *2025 – Present*
 
-- Delivered responsive portfolio websites with end-to-end development and deployment.
-- Integrated Google Drive-backed content updates, location and review information, and client contact workflows.
-- Explore and build practical AI systems, developer tools, and full-stack applications.
+Delivered three responsive portfolio websites with deployment, Google Drive-backed content updates, and client-specific integrations.
+
+## Publications & Recognition
+
+- [IEEE Xplore Publication — Phishing URL Detection using Machine Learning Algorithms](https://ieeexplore.ieee.org/document/11208974)
+- [Pat on the Back Award — SignSure, PayVance Innovation](https://drive.google.com/file/d/1QCIvK3Me6anuxsyq8caPcfnpXGLBZMVR/view?usp=sharing)
+- [IIT Roorkee Campus Immersion Certificate — 2026](https://drive.google.com/file/d/1Se2a4xUPpGaKnbEsk6ccoXL_R-xbBEgO/view?usp=sharing)
+- [Agentic Systems and Design — June 2026 Certificate](https://verify.masaischool.com/certificate/wFyzFQBAMV)
+- [Agentic Systems and Design — July 2026 Certificate](https://verify.masaischool.com/certificate/qiPpXkUpdU)
+- [Agentic Systems and Design — August 2026 Certificate](https://verify.masaischool.com/certificate/N6nMKpkCVP)
+- [Agentic Systems and Design — October 2026 Certificate](https://verify.masaischool.com/certificate/FZdGwijqsh)
+
+## Education
+
+**B.Tech in Information Technology**  
+Ramrao Adik Institute of Technology, DY Patil University · 2021–2025  
+GPA: 8.44/10 · [Degree Certificate](https://drive.google.com/file/d/1f5ofQ7x3_OGjEChzJENzRmQR0GWWoIqM/view?usp=sharing)
 
 ---
 
-## 🛠️ Tech Stack
-
-**AI & Agentic Systems**
-
-`LangGraph` `RAG` `LLM Tool Calling` `MCP` `Rasa` `Agent Memory` `Guardrails` `LLM Evaluation`
-
-**Languages & Backend**
-
-`Python` `Java` `JavaScript` `FastAPI` `Flask` `Spring Boot` `REST APIs`
-
-**Machine Learning**
-
-`Scikit-learn` `Random Forest` `XGBoost` `TensorFlow` `Detectron2` `Siamese Networks` `NLP`
-
-**Frontend & Data**
-
-`React` `MySQL` `MongoDB` `ETL Workflows`
-
-**Cloud & DevOps**
-
-`Google Cloud` `AWS EC2` `Docker` `Jenkins` `CI/CD` `Linux` `Git` `GitHub` `Gitea` `Cloudflare Tunnel`
-
----
-
-## 🏆 Publications & Recognition
-
-- **IEEE Xplore Publication** — Phishing URL Detection using Machine Learning Algorithms (October 2025).
-- **Pat on the Back Award** — PayVance Innovation, for SignSure delivery.
-- **IIT Roorkee Campus Immersion** — 2026.
-- **Excellence in Evaluations** — Agentic Systems and Design, iHUB DivyaSampark / Masai.
-
----
-
-## 🎯 Current Focus
-
-- Building practical, reliable Agentic AI systems.
-- Improving RAG quality, agent evaluation, and tool orchestration.
-- Strengthening cloud deployment, system design, and production engineering.
-- Turning AI concepts into working applications.
-
----
-
-⭐ *I build intelligent systems that solve real problems — from the first line of code to deployment.*
+*Building reliable software and practical AI applications from development to deployment.*
