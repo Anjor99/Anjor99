@@ -2,7 +2,9 @@
 
 **Full Stack Engineer (AI) | Python, FastAPI, React & LLM/RAG Applications**
 
-[Portfolio](https://portfolio.anjorrane.in/) · [LinkedIn](https://in.linkedin.com/in/anjor-rane-4a6111245) · [Fiverr](https://www.fiverr.com/s/GPlBPVZ) · [GitHub](https://github.com/Anjor99)
+[Portfolio](https://portfolio.anjorrane.in/) · [LinkedIn](https://in.linkedin.com/in/anjor-rane-4a6111245) · [GitHub](https://github.com/Anjor99)
+
+## [Hire me for freelance projects](https://www.fiverr.com/s/GPlBPVZ)
 
 Full Stack Engineer (AI) with 1+ year of professional experience building Python backend services, React applications, LLM agents, and machine learning solutions. Experienced in cloud deployment, secure microservice integrations, and Docker/Jenkins CI/CD.
 
